@@ -1,13 +1,12 @@
 import { MapContainer, TileLayer, LayersControl, Polyline } from 'react-leaflet';
+import L from 'leaflet';
 import GeoJsonLayer from './Layers/GeoJsonLayer';
+import { processPois } from '../utils/poiUtils';
 
 // Data imports
-import industrialSites from '../data/industrial-sites.json';
-import workersSettlements from '../data/workers-settlements.json';
-import culturalSites from '../data/cultural-sites.json';
+import rawPois from '../data/pois.json';
 
 // Fix for default marker icon issue in Leaflet + React
-import L from 'leaflet';
 import markerIcon from 'leaflet/dist/images/marker-icon.png';
 import markerShadow from 'leaflet/dist/images/marker-shadow.png';
 
@@ -19,23 +18,19 @@ let DefaultIcon = L.icon({
 });
 L.Marker.prototype.options.icon = DefaultIcon;
 
-function Map() {
+function Map({ selectedCategory }) {
   const center = [49.444, 7.768]; // Kaiserslautern center
   
-  const industrialStyle = {
-    color: 'red',
-    fillColor: '#f03',
-    fillOpacity: 0.5,
-    weight: 2
+  // Process and filter data
+  const pois = processPois(rawPois);
+  
+  const filteredPois = {
+    ...pois,
+    features: selectedCategory === 'All' 
+      ? pois.features 
+      : pois.features.filter(f => f.properties.category === selectedCategory)
   };
-
-  const workersStyle = {
-    color: 'blue',
-    fillColor: '#30f',
-    fillOpacity: 0.5,
-    weight: 2
-  };
-
+  
   const routePath = [
     [49.448, 7.765],
     [49.445, 7.770],
@@ -59,16 +54,11 @@ function Map() {
           />
         </LayersControl.BaseLayer>
 
-        <LayersControl.Overlay checked name="Industrial Sites">
-          <GeoJsonLayer data={industrialSites} style={industrialStyle} />
-        </LayersControl.Overlay>
-
-        <LayersControl.Overlay checked name="Workers' Settlements">
-          <GeoJsonLayer data={workersSettlements} style={workersStyle} />
-        </LayersControl.Overlay>
-
-        <LayersControl.Overlay checked name="Cultural Sites">
-          <GeoJsonLayer data={culturalSites} style={{ fillColor: 'green' }} type="point" />
+        <LayersControl.Overlay checked name="Points of Interest">
+          <GeoJsonLayer 
+            key={selectedCategory} 
+            data={filteredPois} 
+          />
         </LayersControl.Overlay>
 
         <LayersControl.Overlay name="Historical Route">

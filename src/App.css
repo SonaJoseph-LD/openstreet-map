@@ -20,6 +20,43 @@
   color: #333;
 }
 
+.filter-section {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.filter-section label {
+  font-weight: 500;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.category-select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  /* background: white; */
+}
+
+.clear-filter {
+  padding: 6px 12px;
+  background-color: rgb(163, 155, 155);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background 0.2s;
+}
+
+.clear-filter:hover {
+  background-color: #e0e0e0;
+}
+
 .sidebar .description p {
   margin-bottom: 1rem;
   line-height: 1.6;

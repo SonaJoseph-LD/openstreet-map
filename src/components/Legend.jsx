@@ -1,9 +1,11 @@
 function Legend() {
   const items = [
-    { label: 'Industrial Sites', color: 'red' },
-    { label: "Workers' Settlements", color: 'blue' },
-    { label: 'Cultural Sites', color: 'green' },
-    { label: 'Route', color: 'orange' }
+    { label: 'Historic Sites', color: 'red' },
+    { label: 'Cultural Sites', color: 'blue' },
+    { label: 'Tourism', color: 'green' },
+    { label: 'Transportation', color: 'gray' },
+    { label: 'Industrial / Man-Made', color: 'purple' },
+    { label: 'Other', color: '#3388ff' }
   ];
 
   return (
@@ -13,7 +15,11 @@ function Legend() {
         <div key={item.label} className="legend-item">
           <span 
             className="legend-color" 
-            style={{ backgroundColor: item.color }}
+            style={{ 
+              backgroundColor: item.color,
+              height: item.isLine ? '2px' : '16px',
+              marginTop: item.isLine ? '7px' : '0'
+            }}
           ></span>
           <span>{item.label}</span>
         </div>
