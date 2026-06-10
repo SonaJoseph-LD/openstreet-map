@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Fruchthalle", "description": "Cultural and event hall." },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.770, 49.445]
+      }
+    }
+  ]
+}

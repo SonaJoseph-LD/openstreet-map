@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Kammgarnspinnerei", "description": "Historical spinning mill site." },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [7.765, 49.448], [7.768, 49.448], [7.768, 49.446], [7.765, 49.446], [7.765, 49.448]
+        ]]
+      }
+    }
+  ]
+}

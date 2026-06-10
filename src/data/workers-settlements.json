@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Siedlung Bahnheim", "description": "Historic workers' settlement." },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [7.745, 49.442], [7.748, 49.442], [7.748, 49.440], [7.745, 49.440], [7.745, 49.442]
+        ]]
+      }
+    }
+  ]
+}
