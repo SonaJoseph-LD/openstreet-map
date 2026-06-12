@@ -1,6 +1,8 @@
-import { MapContainer, TileLayer, LayersControl, Polyline } from 'react-leaflet';
+import { MapContainer, TileLayer, LayersControl } from 'react-leaflet';
 import L from 'leaflet';
 import GeoJsonLayer from './Layers/GeoJsonLayer';
+import PolygonLayer from './Layers/PolygonLayer';
+import SettlementsLayer from './Layers/SettlementsLayer';
 import { processPois } from '../utils/poiUtils';
 
 // Data imports
@@ -30,15 +32,9 @@ function Map({ selectedCategory }) {
       ? pois.features 
       : pois.features.filter(f => f.properties.category === selectedCategory)
   };
-  
-  const routePath = [
-    [49.448, 7.765],
-    [49.445, 7.770],
-    [49.440, 7.748]
-  ];
 
   return (
-    <MapContainer center={center} zoom={14} scrollWheelZoom={true}>
+    <MapContainer center={center} zoom={14} scrollWheelZoom={true} style={{ height: '100%', width: '100%' }}>
       <LayersControl position="topright">
         <LayersControl.BaseLayer checked name="OpenStreetMap">
           <TileLayer
@@ -47,10 +43,10 @@ function Map({ selectedCategory }) {
           />
         </LayersControl.BaseLayer>
 
-        <LayersControl.BaseLayer name="Historical Map Overlay (Placeholder)">
+        <LayersControl.BaseLayer name="Historical (OpenHistoricalMap)">
           <TileLayer
-            attribution='Historical Data'
-            url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+            attribution='Historical Data &copy; <a href="https://www.oldmapsonline.org/">OldMapsOnline</a>'
+            url="https://wmts.oldmapsonline.org/maps/1c386e04-51a7-4797-b810-0310b232bdd0/2026-06-09T20:02:16.576464Z/{z}/{x}/{y}.png?key=gVFmp1niUwxdVPqX6fXn"
           />
         </LayersControl.BaseLayer>
 
@@ -61,8 +57,12 @@ function Map({ selectedCategory }) {
           />
         </LayersControl.Overlay>
 
-        <LayersControl.Overlay name="Historical Route">
-          <Polyline positions={routePath} color="orange" weight={4} dashArray="10, 10" />
+        <LayersControl.Overlay checked name="Industrial Sites">
+          <PolygonLayer />
+        </LayersControl.Overlay>
+
+        <LayersControl.Overlay checked name="Settlements (Building Land)">
+          <SettlementsLayer />
         </LayersControl.Overlay>
       </LayersControl>
     </MapContainer>

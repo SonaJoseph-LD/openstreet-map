@@ -1,0 +1,3526 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-11T18:06:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255717946",
+        "name": "Pfalzgalerie",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:description": "Rollstuhlfahrer-WC rechts und links anfahrbar, Besucher-WC Tür mindestens 70cm breit",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q1386526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7691799,
+          49.4491933
+        ]
+      },
+      "id": "node/255717946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/274629947",
+        "created_by": "Potlatch 0.9c",
+        "historic": "archaeological_site",
+        "name": "Schindkaut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7523069,
+          49.4729224
+        ]
+      },
+      "id": "node/274629947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/323716138",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8045123,
+          49.4791202
+        ]
+      },
+      "id": "node/323716138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390207956",
+        "historic": "memorial",
+        "inscription": "Pfaffenfels",
+        "memorial": "stone",
+        "note": "Eingesetzte Metallplatte mit historischer Information",
+        "start_date": "1980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7524834,
+          49.4097974
+        ]
+      },
+      "id": "node/390207956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414985975",
+        "alt_name": "Italienerkreuz",
+        "description": "Im obersten Teil des Steines ist ein Kreuz eingemeißelt",
+        "historic": "memorial",
+        "name": "Italienerstein",
+        "website": "https://www.suehnekreuz.de/rhein/kaiserslautern.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8353588,
+          49.4015344
+        ]
+      },
+      "id": "node/414985975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414985980",
+        "historic": "memorial",
+        "inscription": "Johannicol Asenmacher1769",
+        "name": "Hannickelkreuz",
+        "website": "https://www.suehnekreuz.de/rhein/kaiserslautern.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.832028,
+          49.4200601
+        ]
+      },
+      "id": "node/414985980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414985981",
+        "historic": "memorial",
+        "name": "Erbstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8278626,
+          49.409261
+        ]
+      },
+      "id": "node/414985981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415481794",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Weg und Wald der Hoffnung für die Opfer von Kriminalität",
+        "start_date": "2016-10-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8230875,
+          49.4353693
+        ]
+      },
+      "id": "node/415481794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418746852",
+        "historic": "memorial",
+        "inscription": "Iakob Sester von Mölschbach erschlagen von einem Baum 1. Dezember 1874",
+        "name": "Sesterstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8653521,
+          49.4109442
+        ]
+      },
+      "id": "node/418746852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639178749",
+        "denomination": "catholic",
+        "historic": "wayside_shrine",
+        "inscription": "Madonna schütze Wald und Wild",
+        "name": "Madonna",
+        "religion": "christian",
+        "start_date": "1986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7582609,
+          49.397272
+        ]
+      },
+      "id": "node/639178749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671687648",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "name": "Hügelgrab",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8654934,
+          49.4275428
+        ]
+      },
+      "id": "node/671687648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671687653",
+        "archaeological_site": "tumulus",
+        "fixme": "duplicates?",
+        "historic": "archaeological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8084099,
+          49.4580965
+        ]
+      },
+      "id": "node/671687653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671788220",
+        "archaeological_site": "tumulus",
+        "fixme": "duplicates?",
+        "historic": "archaeological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8076164,
+          49.4582569
+        ]
+      },
+      "id": "node/671788220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671788226",
+        "archaeological_site": "tumulus",
+        "fixme": "duplicates?",
+        "historic": "archaeological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8077228,
+          49.4583428
+        ]
+      },
+      "id": "node/671788226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671788232",
+        "archaeological_site": "tumulus",
+        "fixme": "duplicates?",
+        "historic": "archaeological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8080282,
+          49.4584466
+        ]
+      },
+      "id": "node/671788232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671788235",
+        "archaeological_site": "tumulus",
+        "fixme": "duplicates?",
+        "historic": "archaeological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8085668,
+          49.4582613
+        ]
+      },
+      "id": "node/671788235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671788239",
+        "archaeological_site": "tumulus",
+        "fixme": "duplicates?",
+        "historic": "archaeological_site",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8088935,
+          49.4582724
+        ]
+      },
+      "id": "node/671788239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/706671483",
+        "historic": "memorial",
+        "inscription": "Hier starb den Fliegertod Unteroffizier der Luftwaffe Willi Salm aus Freimersheim Pf. * 29.07.1913 † 29.03.1941",
+        "material": "stone",
+        "memorial": "memorial",
+        "name": "Fliegerstein",
+        "source:name": "Mehrere Wegweiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8015747,
+          49.3888933
+        ]
+      },
+      "id": "node/706671483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/756373130",
+        "description": "Eine Inschrift auf einem Schild am Stein beschreibt das \"Rambacher Thal\" nach Weilmann Anno 1600",
+        "historic": "stone",
+        "name": "Rambacher Thal",
+        "start_date": "1979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7345137,
+          49.4007792
+        ]
+      },
+      "id": "node/756373130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/801945401",
+        "amenity": "fountain",
+        "drinking_water": "no",
+        "historic": "memorial",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7332041,
+          49.4399219
+        ]
+      },
+      "id": "node/801945401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/801946316",
+        "description": "alte Dampflok",
+        "historic": "locomotive",
+        "locomotive:type": "steam",
+        "ref": "50 2652",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7231075,
+          49.438051
+        ]
+      },
+      "id": "node/801946316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/803490870",
+        "historic": "memorial",
+        "inscription": "Aschbacher Sohl",
+        "material": "stone",
+        "note": "Eingesetzte Metallplatte mit historischer Information",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7532218,
+          49.4037271
+        ]
+      },
+      "id": "node/803490870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/805343628",
+        "historic": "boundary_stone",
+        "ref": "410",
+        "start_date": "1785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767351,
+          49.3984405
+        ]
+      },
+      "id": "node/805343628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1099684566",
+        "heritage": "yes",
+        "historic": "memorial",
+        "name": "Denkmal Morlautern",
+        "start_date": "1914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7605677,
+          49.4670336
+        ]
+      },
+      "id": "node/1099684566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179555716",
+        "historic": "stone",
+        "name": "Franzosenstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7839076,
+          49.4476817
+        ]
+      },
+      "id": "node/1179555716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179599289",
+        "artist_name": "Martin Schöneich",
+        "historic": "monument",
+        "material": "sandstone",
+        "name": "Picard-Fußball",
+        "start_date": "2006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7686173,
+          49.4443112
+        ]
+      },
+      "id": "node/1179599289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179745756",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8046364,
+          49.4575238
+        ]
+      },
+      "id": "node/1179745756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344226368",
+        "description": "Westlich an der Straße im Hungerbrunnental südöstlich von Kaiserslautern. Das Forsthaus, 1813 erbaut und 1848 abgerissen, ist die Geburtsstätte des Reg. Dir. Karl Albrecht von Ritter, dem Namensgeber der Rittersteine und Hauptvorsitzenden des Pfälzerwald-",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ritterstein_161_R._F._Stiftswald.JPG",
+        "inscription": "R. F. STIFTSWALD\nGeburtsstätte des Reg. Dir. v. Ritter\n1836\nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 161 \"R. F. Stiftswald\"",
+        "ref": "161",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "subject:wikidata": "Q1282627",
+        "subject:wikipedia": "de:Karl Albrecht von Ritter",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8193757,
+          49.4309828
+        ]
+      },
+      "id": "node/1344226368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344244075",
+        "description": "Südöstlich Kaiserslautern auf dem Spitzrain. Eigentlich Kranzeichen, weil hier mächtige alte Eichen im Kranz standen.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ritterstein_266_Eichenkranz.JPG",
+        "inscription": "P.W.V. \nEichenkranz",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 266 \"Eichenkranz\"",
+        "ref": "266",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel, Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.808608,
+          49.4307614
+        ]
+      },
+      "id": "node/1344244075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344255899",
+        "description": "Südöstlich Kaiserslautern im Hungerbrunnental an der Straße von Kaiserslautern nach Waldleiningen. Hinweis auf die in der Nähe entspringende Lauter bei Kaiserslautern.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ritterstein_294_Lauterspring_Grund.JPG",
+        "inscription": "Lauterspring \nGrund \nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 294 \"Lauterspring\"",
+        "ref": "294",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel, Rittersteine im Pfälzerwald",
+        "subject:wikidata": "Q454342",
+        "subject:wikipedia": "de:Lauter (Glan)",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8194555,
+          49.420096
+        ]
+      },
+      "id": "node/1344255899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344260292",
+        "description": "Am Wanderweg im Hungerbrunnental gegenüber dem großen Tor der Einzäunung des Wasserschutzgebietes, zwischen Spitzrain und Großem Steinberg. Ehemaliger Standort eines Wohnhauses, das Christian Axer 1811 erbaute und 1824 erweiterte, 1951 abgerissen.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ritterstein_157_Axershaeuschen.JPG",
+        "inscription": "Axershäuschen \n1824-1951 \nPWV.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 157 \"Axershäuschen\"",
+        "ref": "157",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8174356,
+          49.4265229
+        ]
+      },
+      "id": "node/1344260292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344265913",
+        "description": "Im Hungerbrunnental an der Straße von Kaiserslautern nach Waldleiningen. Hinweis auf die nur periodisch schüttende Quelle der Lauter.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ritterstein_153_Hungerbrunnen.JPG",
+        "inscription": "HUNGER- \nBRUNNEN",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 153 \"Hungerbrunnen\"",
+        "ref": "153",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8302474,
+          49.4129148
+        ]
+      },
+      "id": "node/1344265913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344281867",
+        "description": "Südöstlich von Kaiserslautern, östlich vom Hungerbrunnental, zwischen Kleinem Specht und Großem Steinberg. Standort einer ehemaligen Wolfsjägerhütte, erbaut 1739 von Cornelius (Nilius) Brügel. Ab 1761 wohnte dort Peter Scheid,1793 wurde die Hütte zerstört",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ritterstein_264_Scheidhuette_Niliusburg.JPG",
+        "inscription": "Scheidhütte \nNiliusburg",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 264 \"Scheidhütte Niliusburg\"",
+        "ref": "264",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel, Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8254299,
+          49.4179997
+        ]
+      },
+      "id": "node/1344281867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1344295275",
+        "description": "Südöstlich Kaiserslautern, nördlich der Bahnunterführung ins Hungerbrunnental. Vom 12-13. und später im 18. Jahrhundert Standort einer Mühle. Teile davon, als Ausflugsgaststätte genutzt, standen bis 1954. Bemerkenswert dort stehende schöne Winterlinden.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ritterstein_267_Entersweiler_Muehle.JPG",
+        "inscription": "Entersweiler Mühle\n12.-13. Jahrh.\n1715-1954\nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 267 \"Entersweiler Mühle\"",
+        "ref": "267",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel, Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8221619,
+          49.4326015
+        ]
+      },
+      "id": "node/1344295275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269629",
+        "description": "Nordwestlich der Straße von Hochspeyer nach Johanniskreuz auf dem Harten Kopf, preußische Schanze aus der Zeit der Revolutionskriege (1793–1794), teilweise noch erkennbar. Schanze aus dem ersten Koalitionskrieg auf dem Horterkopf.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ritterstein_145_Horterkopf_Schanze.JPG",
+        "inscription": "Horterkopf \nSchanze \n1793-94 \nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 145 \"Horterkopf Schanze 1793–94\"",
+        "ref": "145",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.851623,
+          49.4046089
+        ]
+      },
+      "id": "node/1346269629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269650",
+        "description": "Nördlich der Straßenkreuzung am Stall, am Westhang des Harten Kopf am Waldweg zum Dammbrunnen. Hinweis auf eine preußische Schanze aus der Zeit der Revolutionskriege (1793–1794).",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ritterstein144_Schanze1793-94_2.JPG",
+        "inscription": "Schanze 1793/94 \n360 Schr. \nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 144 \"Schanze 1793/94\"",
+        "ref": "144",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8474195,
+          49.4052276
+        ]
+      },
+      "id": "node/1346269650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269652",
+        "description": "Nordwestlich vom Horterkopf, auf der Hochfläche des Dammbergs. Hier befand sich früher eine Viehtränke mit einer künstlich angelegten Suhle und eine Unterstellmöglichkeit.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ritterstein_146_Dammbrunnen.JPG",
+        "inscription": "Dammbrunnen \nPWV.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 146 \"Dammbrunnen\"",
+        "ref": "146",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8424528,
+          49.4062502
+        ]
+      },
+      "id": "node/1346269652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269653",
+        "description": "Im Sattel zwischen Mittlerem und Großem Krebser. Standort einer ehemaligen Wolfsgrube. Siehe auch Rittersteine 48 und 107.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/RittersteinWolfskaut.JPG",
+        "inscription": "Wolfskaut \nPWV.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 147 \"Wolfskaut\"",
+        "ref": "147",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8051767,
+          49.4062754
+        ]
+      },
+      "id": "node/1346269653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269654",
+        "description": "Beschreibung bitte auf Wikipedia lesen, da hier nur ein relativ kurzer Text geht.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ritterstein_152_Jungfernstein.JPG",
+        "inscription": "JUNFERN \nSTEIN",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 152 \"Jungfernstein\"",
+        "ref": "152",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7897505,
+          49.4106176
+        ]
+      },
+      "id": "node/1346269654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269657",
+        "description": "An der Wegspinne zwischen Rummelberg und Totenköpfchen, 200 m südlich der Straße von Hochspeyer nach Kaiserslautern. Hinweis auf die westlich auf dem Beilsteiner Kopf gelegene Burgruine Burg Beilstein östlich von Kaiserslautern.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Ritterstein_162_Beilstein.JPG",
+        "inscription": "BEILSTEIN \n300 Schr. \nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 162 \"Beilstein\"",
+        "ref": "162",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "subject:wikidata": "Q1010930",
+        "subject:wikipedia": "de:Burg Beilstein (Pfalz)",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8459702,
+          49.4367497
+        ]
+      },
+      "id": "node/1346269657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269705",
+        "description": "Gedenkstelle an einen ehemaligen Vorsitzenden des PWV Kaiserslautern auf dem Kleinen Humberg. Vor Jahren abgebrannt.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/RittersteinWilhelmMerkelH%C3%BCtte.JPG",
+        "inscription": "Wilhelm Merkel \nHütte \nP.W.V. \n1949",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 262 \"Wilhelm Merkel Hütte\"",
+        "ref": "262",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel, Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7952464,
+          49.415901
+        ]
+      },
+      "id": "node/1346269705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269707",
+        "description": "Südlich der Straße vom Aschbacherhof nach Mölschbach in der Nähe einer Wanderhütte. 1767 gegründet, zeitweise als Forsthaus genützt, wurde er 1833 abgerissen.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ritterstein_133_Mooswieserhof_1767.JPG",
+        "inscription": "Mooswieserhof 1767",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 133 \"Mooswieserhof 1767\"",
+        "ref": "133",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7929968,
+          49.3892717
+        ]
+      },
+      "id": "node/1346269707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269709",
+        "description": "Südlich von Mölschbach im Eulental. Die heute noch erkennbare Waldanlage wurde vom Freiherrn Karl Theodor von Hacke erbaut. Er benannte sie nach seiner Schwester Auguste Elisabetha.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ritterstein_123_Augustenkoepfchen.JPG",
+        "inscription": "Augustenköpfchen \nPWV.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 123 \"Augustenköpfchen\"",
+        "ref": "123",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8211562,
+          49.3673398
+        ]
+      },
+      "id": "node/1346269709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269721",
+        "description": "Südlich von Mölschbach im Eulental. Hinweis auf den Standort einer ehemaligen Glashütte. Um 1600 errichtet, 1767 aufgelassen.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ritterstein_115_Glashuette_1767.JPG",
+        "inscription": "Glashütte \n1767 \nPWV.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 115 \"Glashütte 1767\"",
+        "ref": "115",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8222895,
+          49.3679595
+        ]
+      },
+      "id": "node/1346269721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346269736",
+        "description": "Am Waldweg von Mölschbach zur B 48, zwischen Brotpfadkopf und Hellerwald. Ehemalige Viehtränke, der umliegende Wald gehörte dem Kloster Otterberg.",
+        "historic": "memorial",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ritterstein139_Otterbergersohl.JPG",
+        "inscription": "Otterbergersohl \nP.W.V.",
+        "material": "sandstone",
+        "memorial": "stone",
+        "name": "Ritterstein 139 \"Otterbergersohl\"",
+        "ref": "139",
+        "source:name": "Nummer der Literatur entnommen: W. Eitelmann & E. Kimmel - Rittersteine im Pfälzerwald",
+        "subject:wikidata": "Q111668974",
+        "subject:wikipedia": "de:Abtei Otterberg",
+        "tourism": "attraction",
+        "wikidata": "Q1850870",
+        "wikipedia": "de:Liste der Rittersteine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8287313,
+          49.3962012
+        ]
+      },
+      "id": "node/1346269736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1346776238",
+        "historic": "archaeological_site",
+        "name": "Keltenhügel",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8490444,
+          49.4554786
+        ]
+      },
+      "id": "node/1346776238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1384951521",
+        "description": "Der Weg war bereits vor 1957 vorhanden. Er wurde 1957 verändert/umgebaut.",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Weg erbaut 1957 durch J. T. Sampson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.85894,
+          49.4509143
+        ]
+      },
+      "id": "node/1384951521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1584813115",
+        "historic": "memorial",
+        "name": "Ehrenfriedhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8053245,
+          49.4476846
+        ]
+      },
+      "id": "node/1584813115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1606204755",
+        "historic": "memorial",
+        "memorial": "war_memorial",
+        "name": "Den Opfern des Faschismus 1933-1945",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720572,
+          49.4375271
+        ]
+      },
+      "id": "node/1606204755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1629755057",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.835647,
+          49.414824
+        ]
+      },
+      "id": "node/1629755057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1649423778",
+        "historic": "memorial",
+        "memorial": "war_memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6988969,
+          49.4129619
+        ]
+      },
+      "id": "node/1649423778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728706577",
+        "historic": "memorial",
+        "name": "Gefallenendenkmal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7716119,
+          49.4312594
+        ]
+      },
+      "id": "node/1728706577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728706578",
+        "historic": "boundary_stone",
+        "inscription": "36, 'Wappen'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7724596,
+          49.4315952
+        ]
+      },
+      "id": "node/1728706578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734931260",
+        "historic": "boundary_stone",
+        "inscription": "1560, 1600, No 453, KW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7292389,
+          49.3937906
+        ]
+      },
+      "id": "node/1734931260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734931261",
+        "historic": "boundary_stone",
+        "inscription": "1547, FH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7309499,
+          49.3939779
+        ]
+      },
+      "id": "node/1734931261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734931262",
+        "historic": "boundary_stone",
+        "inscription": "1763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7279935,
+          49.3961787
+        ]
+      },
+      "id": "node/1734931262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736583871",
+        "description": "Passstraße",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Naturdenkmal Rote Hohl",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7473966,
+          49.4124225
+        ]
+      },
+      "id": "node/1736583871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736916933",
+        "description": "Grenzstein (Dreimarkstein, Dreibänner, Dreimärker) namensgebend als Dreickstein",
+        "historic": "boundary_stone",
+        "image": "File:Dreieckstein_Gro%C3%9Fer_Humberg_Kaiserslautern.jpg",
+        "inscription": "1786, Wappen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7684308,
+          49.4122653
+        ]
+      },
+      "id": "node/1736916933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1823048857",
+        "historic": "wayside_cross",
+        "inscription": "Danke Herr für 45 Jahre Frieden. Ostern 1990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8568775,
+          49.4486598
+        ]
+      },
+      "id": "node/1823048857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861331267",
+        "historic": "archaeological_site",
+        "name": "Mikwe (jüdisches Kultbad)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7687014,
+          49.4445951
+        ]
+      },
+      "id": "node/1861331267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861333856",
+        "historic": "archaeological_site",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7679933,
+          49.4457238
+        ]
+      },
+      "id": "node/1861333856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861335126",
+        "historic": "archaeological_site",
+        "name": "Unterirdische Gänge",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7685991,
+          49.4464141
+        ]
+      },
+      "id": "node/1861335126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1923002866",
+        "historic": "boundary_stone",
+        "inscription": "XXXIII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8051313,
+          49.4060655
+        ]
+      },
+      "id": "node/1923002866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964459844",
+        "historic": "boundary_stone",
+        "inscription": "137; F.v.G.; St. W.; 1833; KW; 10101 (?); No 19;"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.843265,
+          49.3613718
+        ]
+      },
+      "id": "node/1964459844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964459850",
+        "historic": "boundary_stone",
+        "inscription": "KW; 10102 (?); No ?;"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8456866,
+          49.3627407
+        ]
+      },
+      "id": "node/1964459850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964557043",
+        "historic": "memorial",
+        "name": "Gefallenendenkmal",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8209679,
+          49.3798048
+        ]
+      },
+      "id": "node/1964557043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964672304",
+        "historic": "memorial",
+        "memorial": "war_memorial",
+        "name": "23er Denkmal",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7695265,
+          49.4455153
+        ]
+      },
+      "id": "node/1964672304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2261328118",
+        "historic": "memorial",
+        "memorial": "war_memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7359015,
+          49.4064301
+        ]
+      },
+      "id": "node/2261328118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2320676446",
+        "industrial": "plastics",
+        "name": "Liebrich Kunstoffe",
+        "opening_hours": "Mo-Th 07:30-17:00; Fr 07:30-16:00; Sa 08:00-11:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7394575,
+          49.4404679
+        ]
+      },
+      "id": "node/2320676446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337403160",
+        "amenity": "community_centre",
+        "check_date": "2025-11-02",
+        "internet_access": "wlan",
+        "name": "Eselsohr",
+        "opening_hours": "\"Siehe Webseite/nach Vereinbarung\"",
+        "operator": "Kulturverein Musikerviertel e.V.",
+        "website": "https://eselsohr.org",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7674062,
+          49.4390749
+        ]
+      },
+      "id": "node/2337403160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2376908189",
+        "historic": "milestone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8432093,
+          49.4422478
+        ]
+      },
+      "id": "node/2376908189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426818092",
+        "historic": "memorial",
+        "inscription": "1896 – Dem Gründer des Verschönerungsverein, Herrn Karl Sturm, die dankbare Stadt Kaiserslautern",
+        "memorial": "bust",
+        "name": "Karl Sturm Gedenktafel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7606482,
+          49.4369535
+        ]
+      },
+      "id": "node/2426818092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500921867",
+        "historic": "boundary_stone",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7587716,
+          49.4244401
+        ]
+      },
+      "id": "node/2500921867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2551117245",
+        "historic": "exhibit",
+        "name": "Dampfmaschine",
+        "start_date": "1912",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7511007,
+          49.4228485
+        ]
+      },
+      "id": "node/2551117245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578225042",
+        "historic": "locomotive",
+        "name": "Triebdrehgestell für Nahverkehrs-Triebwagen 430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7544646,
+          49.4250337
+        ]
+      },
+      "id": "node/2578225042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2676928752",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8432548,
+          49.4422848
+        ]
+      },
+      "id": "node/2676928752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2698443194",
+        "historic": "memorial",
+        "inscription": "In memorian Karl Zimmer Krickenbach Forstwirtschaftsmeister im Reichswald * 17.6.1932 + 26.11.1993 \"Nur wer den Wald kennt, wird ihn auch lieben\" Forstrevier Bremerhof Forstamt Kaiserslautern West",
+        "memorial": "plaque",
+        "natural": "stone",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7561901,
+          49.4001273
+        ]
+      },
+      "id": "node/2698443194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868379438",
+        "historic": "boundary_stone",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7296225,
+          49.3937975
+        ]
+      },
+      "id": "node/2868379438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331894067",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Pirmasenser_Straße_20_Max_Jakob.jpg",
+        "inscription": "Hier wohnte Max Jakob Jg. 1891 Schutzhaft 1938 Dachau deportiert 1941 Lodz/Litzmannstadt ermordet 18.9.1942",
+        "memorial": "stolperstein",
+        "memorial:addr": "Pirmasenser Str. 20, 67655 Kaiserslautern",
+        "name": "Max Jakob",
+        "network": "Stolpersteine",
+        "person:date_of_birth": "1891-09-19",
+        "person:date_of_death": "1942-09-18",
+        "start_date": "2015-02-05",
+        "website": "https://wp.stolpersteine-kl.de/stolpersteine-in-kaiserslautern/biografie-familie-max-jakob/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7668795,
+          49.4414218
+        ]
+      },
+      "id": "node/3331894067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331923706",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Pirmasenser_Straße_20_Erich_Werner_Jakob.jpg",
+        "inscription": "Hier wohnte Erich Werner Jakob Jg. 1921 deportiert 1941 Lodz/Litzmannstadt ermordet",
+        "memorial": "stolperstein",
+        "memorial:addr": "Pirmasenser Str. 20, 67655 Kaiserslautern",
+        "name": "Erich Werner Jakob",
+        "network": "Stolpersteine",
+        "person:date_of_birth": "1921-08-30",
+        "start_date": "2015-02-05",
+        "website": "https://wp.stolpersteine-kl.de/stolpersteine-in-kaiserslautern/biografie-familie-max-jakob/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7668883,
+          49.4414295
+        ]
+      },
+      "id": "node/3331923706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331923707",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Pirmasenser_Straße_20_Hannelore_Jakob.jpg",
+        "inscription": "Hier wohnte Hannelore Jakob Jg. 1926 deportiert 1941 Lodz/Litzmannstadt ermordet",
+        "memorial": "stolperstein",
+        "memorial:addr": "Pirmasenser Str. 20, 67655 Kaiserslautern",
+        "name": "Hannelore Jakob",
+        "network": "Stolpersteine",
+        "person:date_of_birth": "1926-03-16",
+        "start_date": "2015-02-05",
+        "website": "https://wp.stolpersteine-kl.de/stolpersteine-in-kaiserslautern/biografie-familie-max-jakob/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7668965,
+          49.4414365
+        ]
+      },
+      "id": "node/3331923707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331923708",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Pirmasenser_Straße_20_Johanna_Jakob.jpg",
+        "inscription": "Hier wohnte Johanna Jakob geb. Isaak Jg. 1890 deportiert 1941 Lodz/Litzmannstadt ermordet 6.10.1942",
+        "memorial": "stolperstein",
+        "memorial:addr": "Pirmasenser Str. 20, 67655 Kaiserslautern",
+        "name": "Johanna Jakob",
+        "network": "Stolpersteine",
+        "person:date_of_birth": "1890-03-12",
+        "person:date_of_death": "1942-10-06",
+        "start_date": "2015-02-05",
+        "website": "https://wp.stolpersteine-kl.de/stolpersteine-in-kaiserslautern/biografie-familie-max-jakob/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7668714,
+          49.4414149
+        ]
+      },
+      "id": "node/3331923708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451627721",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Moltkestraße_22_Anna_Reis.jpg",
+        "inscription": "Hier wohnte Anna Reis Jg. 1905 'eingewiesen' 30.3.31943 Heilanstalt Klingenmünster ermordet 5.4.1943",
+        "memorial": "stolperstein",
+        "memorial:addr": "Moltkestraße 22, Kaiserslautern",
+        "name": "Anna Reis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7631889,
+          49.441587
+        ]
+      },
+      "id": "node/3451627721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451627722",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Turnerstraße_40_Otto_Michel.jpg",
+        "inscription": "Hier wohnte Otto Michel Jg. 1898 im Widerstand/KPD 'Schutzhaft' 1933 Lager Neustadt 1938 Buchenwald Ravensbrück ermordet 14.9.1942",
+        "memorial": "stolperstein",
+        "memorial:addr": "Turnerstraße 40, Kaiserslautern",
+        "name": "Otto Michel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756072,
+          49.445891
+        ]
+      },
+      "id": "node/3451627722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451627723",
+        "historic": "memorial",
+        "inscription": "Hier wohnte Wilhelm Krüger Jg. 1899 verhaftet 1930 Sachsenhausen Flucht in den Tod 5.5.1940",
+        "memorial": "stolperstein",
+        "memorial:addr": "Werdestraße 6, Kaiserslautern",
+        "name": "Wilhelm Krüger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7585278,
+          49.4406278
+        ]
+      },
+      "id": "node/3451627723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452018137",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Obere_Straße_7_Peter_Brandstädter.jpg",
+        "memorial": "stolperstein",
+        "memorial:text": "Hier wohnte Peter Brandstädter Jg. 1881 eingewiesen 5.7.1934 Heilanstalt Frankenthal verhungert 22.1.1943",
+        "name": "Peter Brandstädter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7649972,
+          49.4695833
+        ]
+      },
+      "id": "node/3452018137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452033237",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Königstraße_57_Carmen_Judith_Eschwege.jpg",
+        "inscription": "Hier wohnte Carmen Judith Eschwege Verh. Blum Jg. 1924 Kindertransport 1939 Frankreich mit Hilfe überlebt",
+        "memorial": "stolperstein",
+        "name": "Carmen Judith Eschwege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760261,
+          49.4407479
+        ]
+      },
+      "id": "node/3452033237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452033238",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Königstraße_57_Erna_Eschwege.jpg",
+        "inscription": "Hier wohnte Erna Eschwege Geb. Dreyfuss Jg. 1896 deportiert 1940 Gurs/Noe interniert Drancy 1944 Auschwitz ermordet",
+        "memorial": "stolperstein",
+        "name": "Erna Eschwege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7602711,
+          49.4407521
+        ]
+      },
+      "id": "node/3452033238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452033239",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Königstraße_57_Paul_Eschwege.jpg",
+        "inscription": "Hier wohnte Paul Eschwege Jg. 1882 'Schutzhaft' 1938 Dachau deportiert 1940 Gurs/Rivesaltes Noe befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Paul Eschwege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7602527,
+          49.4407435
+        ]
+      },
+      "id": "node/3452033239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452033240",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Königstraße_57_Erna_Eschwege.jpg",
+        "inscription": "Hier wohnte Ruth Sophie Eschwege Verh. Dreyfuss Jg. 1922 deportiert 1940 Gurs/Noe 1944 Auschwitz befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Ruth Sophie Eschwege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7602807,
+          49.4407564
+        ]
+      },
+      "id": "node/3452033240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057544",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Hannelore_Herze.jpg",
+        "inscription": "Hier wohnte Hannelore Herze Jg. 1933 deportiert 1940 Gurs Tot 8.12.1940",
+        "memorial": "stolperstein",
+        "name": "Hannelore Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620372,
+          49.4408032
+        ]
+      },
+      "id": "node/3452057544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057545",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Hedwig_Herze.jpg",
+        "inscription": "Hier wohnte Hedwig Herze Jg. 1931 deportiert 1940 Gurs interniert Noé Tot 4.2.1943",
+        "memorial": "stolperstein",
+        "name": "Hedwig Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620548,
+          49.4408027
+        ]
+      },
+      "id": "node/3452057545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057546",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Hugo_Herze.jpg",
+        "inscription": "Hier wohnte Hugo Herze Jg. 1870 deportiert 1940 Gurs befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Hugo Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620463,
+          49.4408088
+        ]
+      },
+      "id": "node/3452057546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057547",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Jakob_Herze.jpg",
+        "inscription": "Hier wohnte Jakob Herze Jg. 1901 'Schutzhaft' 1938 Dachau deportiert 1940 Gurs Tot 15.4.1941",
+        "memorial": "stolperstein",
+        "name": "Jakob Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620679,
+          49.44079
+        ]
+      },
+      "id": "node/3452057547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057548",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Johanna_Herze.jpg",
+        "inscription": "Hier wohnte Johanna Herze Geb. Jakob Jg. 1874 deportiert 1940 Gurs interniert Noé Tot 5.3.1943",
+        "memorial": "stolperstein",
+        "name": "Johanna Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620611,
+          49.4407966
+        ]
+      },
+      "id": "node/3452057548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057549",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Lydia_Herze.jpg",
+        "inscription": "Hier wohnte Lydia Herze Geb. Horn Jg. 1912 deportiert 1940 Gurs befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Lydia Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620754,
+          49.4407832
+        ]
+      },
+      "id": "node/3452057549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452057550",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Rudolf-Breitscheid-Straße_71_Ruth_Herze.jpg",
+        "inscription": "Hier wohnte Ruth Herze Jg. 1939 deportiert 1940 Gurs befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Ruth Herze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620454,
+          49.4407967
+        ]
+      },
+      "id": "node/3452057550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429225",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Heinrich_Sklarek.jpg",
+        "inscription": "Hier wohnte Heinrich Sklarek Jg. 1937 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Heinrich Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7652003,
+          49.440837
+        ]
+      },
+      "id": "node/3453429225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429226",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Helene_Sklarek.jpg",
+        "inscription": "Hier wohnte Helene Sklarek Jg. 1917 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Helene Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7652229,
+          49.4408298
+        ]
+      },
+      "id": "node/3453429226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429227",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Hermann_Sklarek.jpg",
+        "inscription": "Hermann Sklarek Jg. 1920 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Hermann Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7651853,
+          49.440856
+        ]
+      },
+      "id": "node/3453429227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429228",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Jakob_Sklarek.jpg",
+        "inscription": "Hier wohnte Jakob Sklarek Jg. 1920 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Jakob Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7651916,
+          49.440847
+        ]
+      },
+      "id": "node/3453429228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429229",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Ludwig_Sklarek.jpg",
+        "inscription": "Hier wohnte Ludwig Sklarek Jg. 1914 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Ludwig Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7652134,
+          49.4408419
+        ]
+      },
+      "id": "node/3453429229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429230",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Moritz_Sklarek.jpg",
+        "inscription": "Hier wohnte Moritz Sklarek Jg. 1877 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Moritz Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7652083,
+          49.4408528
+        ]
+      },
+      "id": "node/3453429230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453429231",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Humboldtstraße_6_Thekla_Sklarek.jpg",
+        "inscription": "Hier wohnte Thekla Sklarek Jg. 1883 'Polenaktion' 1938 Bentschen/Zbaszyn ermordet im besetzten Polen",
+        "memorial": "stolperstein",
+        "name": "Thekla Sklarek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7651995,
+          49.4408609
+        ]
+      },
+      "id": "node/3453429231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453746718",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstra%C3%9Fe_65_Adolf_Stern.jpg",
+        "inscription": "Hier wohnte Adolf Stern Jg. 1862 deportiert 1940 Gurs Tod 18.11.1940",
+        "memorial": "stolperstein",
+        "name": "Adolf Stern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7696287,
+          49.4386795
+        ]
+      },
+      "id": "node/3453746718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453746719",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_65_Elfriede_Sommerfeld.jpg",
+        "inscription": "Hier wohnte Elfriede Sommerfeld Verh. Kaspy Jg. 1923 Flucht 1939 Frankreich interniert Gurs 1940 entlassen versteckt gelebt befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Elfriede Sommerfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7696208,
+          49.4387065
+        ]
+      },
+      "id": "node/3453746719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453746720",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstra%C3%9Fe_65_Emma_Somerfeld.jpg",
+        "inscription": "Hier wohnte Emma Sommerfeld Geb. Knoblauch Jg. 1895 deportiert 1943 ermordet in Auschwitz",
+        "memorial": "stolperstein",
+        "name": "Emma Sommerfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7696194,
+          49.4387161
+        ]
+      },
+      "id": "node/3453746720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453746721",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_65_Isidor_Sommerfeld.jpg",
+        "inscription": "Hier wohnte Isidor Sommerfeld Jg. 1884 'Schutzhaft' 1938 Dachau deportiert 1943 ermordet in Auschwitz",
+        "memorial": "stolperstein",
+        "name": "Isidor Sommerfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7696236,
+          49.4386975
+        ]
+      },
+      "id": "node/3453746721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453746722",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_65_Regina_Stern.jpg",
+        "inscription": "Hier wohnte Regina Stern Geb. Strauss Jg. 1862 deportiert 1940 Gurs Tod 2.1.1942",
+        "memorial": "stolperstein",
+        "name": "Regina Stern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7696256,
+          49.4386883
+        ]
+      },
+      "id": "node/3453746722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453755085",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Alleestraße_10_Carola_Tuteur.jpg",
+        "inscription": "Hier wohnte Carola Tuteur Jg. 1925 Flucht 1938 Belgien interniert Malines deportiert 1944 Auschwitz ermordet 1944",
+        "memorial": "stolperstein",
+        "name": "Carola Tuteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7697935,
+          49.4418713
+        ]
+      },
+      "id": "node/3453755085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453755086",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Alleestraße_10_Charlotte_Tuteur.jpg",
+        "inscription": "Hier wohnte Charlotte Tuteur Geb. Metzger Jg. 1902 Flucht 1939 England überlebt",
+        "memorial": "stolperstein",
+        "name": "Charlotte Tuteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7697778,
+          49.441872
+        ]
+      },
+      "id": "node/3453755086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453755087",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Alleestraße_10_Claus_Tuteur.jpg",
+        "inscription": "Hier wohnte Claus Tuteur Jg. 1927 Flucht 1938 Belgien interniert Malines deportiert 1944 Auschwitz ermordet 1944",
+        "memorial": "stolperstein",
+        "name": "Claus Tuteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7698065,
+          49.4418706
+        ]
+      },
+      "id": "node/3453755087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453755088",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Alleestraße_10_Dr._Paul_Tuteur.jpg",
+        "inscription": "Hier wohnte Dr. Paul Tuteur Jg. 1881 Berufsverbot 1938 Flucht 1939 England überlebt",
+        "memorial": "stolperstein",
+        "name": "Dr. Paul Tuteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7697643,
+          49.4418731
+        ]
+      },
+      "id": "node/3453755088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453774693",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheimer_Straße_108_Adolf_Angress.jpg",
+        "inscription": "Hier wohnte Adolf Angress Jg. 1896 interniert 1938 Dachau Flucht 1939 England",
+        "memorial": "stolperstein",
+        "name": "Adolf Angress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7859611,
+          49.4454333
+        ]
+      },
+      "id": "node/3453774693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453774694",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheimer_Straße_108_Hans_Gerd_Angress.jpg",
+        "inscription": "Hier wohnte Hans Gerd Angress Jg. 1923 Flucht 1939 Holland interniert Westerbork deportiert 1942 Zamosc Zwangsarbeit Schoppinitz ermordet 31.10.1943",
+        "memorial": "stolperstein",
+        "name": "Hans Gerd Angress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7859407,
+          49.4454345
+        ]
+      },
+      "id": "node/3453774694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453774695",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheimer_Straße_108_Ingeborg_Herta_Angress.jpg",
+        "inscription": "Hier wohnte Ingeborg Herta Angress Jg. 1928 Flucht 1939 Holland interniert Westerbork deportiert 1943 Auschwitz ermordet 31.1.1944",
+        "memorial": "stolperstein",
+        "name": "Ingeborg Herta Angress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7859231,
+          49.4454359
+        ]
+      },
+      "id": "node/3453774695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453774696",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheimer_Straße_108_Klaus_Angress.jpg",
+        "inscription": "Hier wohnte Klaus Angress Jg. 1933 Flucht 1939 Holland interniert Westerbork deportiert 1943 Auschwitz ermordet 10.9.1943",
+        "memorial": "stolperstein",
+        "name": "Klaus Angress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7859472,
+          49.4454403
+        ]
+      },
+      "id": "node/3453774696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453774697",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheimer_Straße_108_Rosa_Angress.jpg",
+        "inscription": "Hier wohnte Rosa Angress Jg. 1898 Flucht 1939 England",
+        "memorial": "stolperstein",
+        "name": "Rosa Angress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7859506,
+          49.4454339
+        ]
+      },
+      "id": "node/3453774697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453774698",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheimer_Straße_108_Wolfgang_Angress.jpg",
+        "inscription": "Hier wohnte Wolfgang Angress Jg. 1924 Flucht 1939 Holland interniert Westerbork deportiert 1942 Bergen-Belsen befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Wolfgang Angress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7859311,
+          49.4454352
+        ]
+      },
+      "id": "node/3453774698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453783251",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Altenhof_17_Dr._Robert_Tuteur.jpg",
+        "inscription": "Hier wohnte Dr. Robert Tuteur Jg. 1882 'Schutzhaft' 1938 Dachau Tot 1.12.1938",
+        "memorial": "stolperstein",
+        "name": "Dr. Robert Tuteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768325,
+          49.4440667
+        ]
+      },
+      "id": "node/3453783251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453783252",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Altenhof_17_Herbert_Tuteur.jpg",
+        "inscription": "Hier wohnte Herbert Tuteur Jg. 1919 Flucht 1936 England USA überlebt",
+        "memorial": "stolperstein",
+        "name": "Herbert Tuteur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7683141,
+          49.4440713
+        ]
+      },
+      "id": "node/3453783252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453789091",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Gaustraße_1_Berta_Wertheimer.jpg",
+        "inscription": "Hier wohnte Berta Wertheimer Jg. 1898 Seit 1926 Patientin in verschiedenen Heilanstalten 'verlegt' 20.9.1940 Schloss Hartheim ermordet Sept. 1940 Aktion T4",
+        "memorial": "stolperstein",
+        "name": "Berta Wertheimer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7747368,
+          49.4459776
+        ]
+      },
+      "id": "node/3453789091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453789092",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Gaustraße_1_Dr._Julius_Wertheimer.jpg",
+        "inscription": "Hier wohnte Dr. Julius Wertheimer Jg. 1870 Opfer des Pogroms gedemütigt/misshandelt Flucht in den Tod 10.11.1938",
+        "memorial": "stolperstein",
+        "name": "Dr. Julius Wertheimer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7747167,
+          49.4459694
+        ]
+      },
+      "id": "node/3453789092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453791885",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Steinstraße_30_Luise_Schwarzschild.jpg",
+        "inscription": "Hier wohnte Luise Schwarzschild Geb. Keim Jg. 1909 deportiert 1940 Gurs/Rivesaltes befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Luise Schwarzschild"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773763,
+          49.4468547
+        ]
+      },
+      "id": "node/3453791885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453791886",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Steinstraße_30_Richard_Schwarzschild.jpg",
+        "inscription": "Hier wohnte Richard Schwarzschild Jg. 1898 'Schutzhaft' 1938 Dachau deportiert 1940 Gurs/Rivesaltes 1942 Auschwitz ermordet Nov. 1943",
+        "memorial": "stolperstein",
+        "name": "Richard Schwarzschild"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773774,
+          49.4468604
+        ]
+      },
+      "id": "node/3453791886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453791887",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Steinstraße_30_Sara_Schwarzschild.jpg",
+        "inscription": "Hier wohnte Sara Schwarzschild Geb. Wälder Jg. 1861 deportiert 1940 Gurs Rivesaltes/Noe Tot 7.3.1944 Macon",
+        "memorial": "stolperstein",
+        "name": "Sara Schwarzschild"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7737889,
+          49.4468639
+        ]
+      },
+      "id": "node/3453791887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453795415",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Benzinoring_4_Dr._Moritz_Kühn.jpg",
+        "inscription": "Hier wohnte Dr. Moritz Kühn Jg. 1855 Opfer des Pogroms 1938 deportiert 1940 Gurs Tot 4.12.1940",
+        "memorial": "stolperstein",
+        "name": "Dr. Moritz Kühn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.770935,
+          49.4488517
+        ]
+      },
+      "id": "node/3453795415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453795416",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Benzinoring_4_Maria_Therese_Kühn.jpg",
+        "inscription": "Hier wohnte Maria Therese Kühn Jg. 1885 deportiert 1940 Gurs interniert Drancy 1942 Auschwitz ermordet",
+        "memorial": "stolperstein",
+        "name": "Maria Therese Kühn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7709127,
+          49.4488481
+        ]
+      },
+      "id": "node/3453795416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453807216",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Friedenstraße_30_Erna_de_Vries.jpg",
+        "inscription": "Hier wohnte Erna de Vries Geb. Korn Jg. 1923 deportiert 1943 Auschwitz Ravensbrück Todesmarsch 1945 befreit/überlebt",
+        "memorial": "stolperstein",
+        "name": "Erna de Vries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7823682,
+          49.4472863
+        ]
+      },
+      "id": "node/3453807216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3453807217",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Friedenstraße_30_Jeanette_Korn.jpg",
+        "inscription": "Hier wohnte Jeanette Korn Geb. Löwenstein Jg. 1894 deportiert 1943 Auschwitz ermordet 8.11.1943",
+        "memorial": "stolperstein",
+        "name": "Jeanette Korn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7823861,
+          49.4472917
+        ]
+      },
+      "id": "node/3453807217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455219476",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_43_Alexander_Preis.JPG",
+        "inscription": "Hier wohnte Alexander Preis Jg. 1882 Deportiert 1940 Gurs Tot 5.10.1941",
+        "memorial": "stolperstein",
+        "name": "Alexander Preis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692677,
+          49.4399045
+        ]
+      },
+      "id": "node/3455219476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455219477",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_43_Betty_Preis.JPG",
+        "inscription": "Hier wohnte Betty Preis Geb. Dreifus Jg. 1882 Deportiert 1940 Gurs interniert Drancy 1942 Auschwitz ermordert",
+        "memorial": "stolperstein",
+        "name": "Betty Preis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692684,
+          49.4399
+        ]
+      },
+      "id": "node/3455219477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455219478",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_43_Katharina_Preis.JPG",
+        "inscription": "Hier wohnte Katharina Preis Jg. 1913 Deportiert 1940 Gurs interniert Drancy 1942 Auschwitz ermordert",
+        "memorial": "stolperstein",
+        "name": "Katharina Preis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692693,
+          49.4398956
+        ]
+      },
+      "id": "node/3455219478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455219479",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Glockenstraße_43_Ruth_Preis.JPG",
+        "inscription": "Hier wohnte Ruth Preis Jg. 1913 Deportiert 1940 Gurs interniert Drancy 1942 Auschwitz ermordert",
+        "memorial": "stolperstein",
+        "name": "Ruth Preis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692709,
+          49.4398914
+        ]
+      },
+      "id": "node/3455219479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3561937667",
+        "denomination": "catholic",
+        "historic": "wayside_cross",
+        "name": "Bildstöckchen",
+        "religion": "christian",
+        "start_date": "1950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8210781,
+          49.4378402
+        ]
+      },
+      "id": "node/3561937667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3627939670",
+        "historic": "memorial",
+        "inscription": "Köhler Lehrgang der Wehrmacht 1.4. - 1.7.1940 KM",
+        "material": "stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8471861,
+          49.4006746
+        ]
+      },
+      "id": "node/3627939670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3839161658",
+        "historic": "memorial",
+        "material": "stone",
+        "memorial": "stele",
+        "name": "John F. Kennedy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7791109,
+          49.4431872
+        ]
+      },
+      "id": "node/3839161658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3938043181",
+        "historic": "memorial",
+        "inscription": "WILHELM JAKOB DANSENBERG 30.3.1933",
+        "memorial": "stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765064,
+          49.4038638
+        ]
+      },
+      "id": "node/3938043181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3938043182",
+        "historic": "memorial",
+        "image": "File:Waidmannsruhe,_Auf_dem_Hindereck.jpg",
+        "inscription": "Waidmannsruhe \"Auf dem Hindereck des kleinen Letzberg im Reichs Gewäld Lautern\" \"Lass Deine Augen offen sein geschlossen dein Mund und wandle still, so werden Dir, geheime Dinge kund\" (H Löns) Errichtet 1980 Forstamt Kaiserslautern West",
+        "material": "stone",
+        "note": "Eingesetzte Metallplatte mit Information und Gedicht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7641169,
+          49.4096735
+        ]
+      },
+      "id": "node/3938043182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999402345",
+        "fee": "yes",
+        "name": "Fußballfieber - Fußball Geschichte(n) aus Rheinland-Pfalz",
+        "opening_hours": "Sa,Su 10:00-18:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768934,
+          49.4451918
+        ]
+      },
+      "id": "node/3999402345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068918663",
+        "description": "Jammerhalde",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7307026,
+          49.4101478
+        ]
+      },
+      "id": "node/4068918663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4334603899",
+        "historic": "memorial",
+        "memorial": "war_memorial",
+        "name": "Den toten 1939-1945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7950134,
+          49.445316
+        ]
+      },
+      "id": "node/4334603899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4334603900",
+        "artist_name": "Richard Menges",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Ostdeutscher Gedenkstein",
+        "start_date": "1983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7947653,
+          49.4452097
+        ]
+      },
+      "id": "node/4334603900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529042243",
+        "description": "Das Denkmal an Gernot Reis Forstwirt im Alter von 30 Jahren am 2.10.1992 von einem Baum erschlagen",
+        "historic": "memorial",
+        "inscription": "Gernot Reis Forstwirt im Alter von 30 Jahren am 2.10.1992 von einem Baum erschlagen",
+        "memorial": "stone",
+        "name": "Gernot Reis Forstwirt",
+        "name:cs": "Památník na zahynulého 30letého Gernota Reise Forstwirta, který zde 2.10.1992 zahynul pod stromem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7929279,
+          49.415883
+        ]
+      },
+      "id": "node/4529042243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681721149",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "7",
+        "addr:postcode": "67655",
+        "addr:street": "Klosterstraße",
+        "description": "Stolperstein",
+        "historic": "memorial",
+        "memorial": "stolperstein",
+        "name": "Ida Blum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772807,
+          49.4460692
+        ]
+      },
+      "id": "node/4681721149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706949290",
+        "historic": "memorial",
+        "memorial": "stone",
+        "name": "Den toten Pfälzer-Wäldlern zum Gedenken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7478019,
+          49.4685088
+        ]
+      },
+      "id": "node/4706949290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706955045",
+        "historic": "memorial",
+        "memorial": "stele",
+        "name": "Kriegerdenkmal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.711587,
+          49.4830318
+        ]
+      },
+      "id": "node/4706955045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4706955046",
+        "historic": "wayside_cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7118244,
+          49.4831119
+        ]
+      },
+      "id": "node/4706955046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796435197",
+        "historic": "memorial",
+        "name": "Jean Schoen 1857-1887",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7569994,
+          49.4470693
+        ]
+      },
+      "id": "node/4796435197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219592537",
+        "historic": "memorial",
+        "inscription": "Scheerstr. 2 wohnte Oskar Brill JG. 1892 Im Widerstand / KPD 'Schutzhaft' 1933 Lager Neustadt Seit 1934 Inhaftiert Gefängnis / Straflager 1939 Buchenwald Befreit",
+        "memorial": "stolperstein",
+        "name": "Oskar Brill",
+        "object:city": "Kaiserslautern",
+        "object:postcode": "67655",
+        "object:street": "Philipp Meesplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720841,
+          49.4375485
+        ]
+      },
+      "id": "node/5219592537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145323746",
+        "historic": "memorial",
+        "material": "stone",
+        "name": "Fhs Ruhetal 1865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7470605,
+          49.4688283
+        ]
+      },
+      "id": "node/6145323746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145323758",
+        "historic": "memorial",
+        "material": "stone",
+        "name": "Saubrigg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7483869,
+          49.4663016
+        ]
+      },
+      "id": "node/6145323758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6145325489",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739616,
+          49.4520004
+        ]
+      },
+      "id": "node/6145325489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331341470",
+        "historic": "memorial",
+        "inscription": "Karl David Hofmann-Platz 1953",
+        "memorial": "stone",
+        "name": "Karl David Hofmann-Platz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7329392,
+          49.4399207
+        ]
+      },
+      "id": "node/6331341470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034442120",
+        "historic": "memorial",
+        "inscription": "An der Emils wohnte Adolf Höhn JG. 1896 Im Widerstand / KPD Seit 1934 inhaftiert Gefängnis / Stralager 1939 Buchenwald Befreit",
+        "memorial": "stolperstein",
+        "name": "Adolf Höhn",
+        "object:city": "Kaiserslautern",
+        "object:postcode": "67655",
+        "object:street": "Philipp Meesplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720777,
+          49.4375529
+        ]
+      },
+      "id": "node/7034442120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034442121",
+        "historic": "memorial",
+        "inscription": "Erzhütten 40 wohnte Philipp Mees JG. 1901 Im Widerstand / SPD Verhaftet 1938 Zuchthaus Ludwigsburg 'Schutzhaft' 1942 Dachau Sondereinheit Dirlewanger 1945 Fahnenflucht Überlebt",
+        "memorial": "stolperstein",
+        "name": "Philipp Mees",
+        "object:city": "Kaiserslautern",
+        "object:postcode": "67655",
+        "object:street": "Philipp Meesplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720929,
+          49.4375466
+        ]
+      },
+      "id": "node/7034442121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7034442122",
+        "historic": "memorial",
+        "inscription": "Pariser Str. 124 wohnte Hermann Röper JG. 1892 Im Widerstand / SPD Verhaftet 1938 Vorbereitung Hochverrat Gefängnis Mannheim Freispruch Entlassen 1939 Verhaftet 1940 Entlassen",
+        "memorial": "stolperstein",
+        "name": "Hermann Röper",
+        "object:city": "Kaiserslautern",
+        "object:street": "Phillipp Meesplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720701,
+          49.4375571
+        ]
+      },
+      "id": "node/7034442122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7419126087",
+        "historic": "memorial",
+        "inscription": "125 Jahre PTB",
+        "material": "stone",
+        "memorial": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692029,
+          49.4054352
+        ]
+      },
+      "id": "node/7419126087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7419126089",
+        "historic": "memorial",
+        "inscription": "HIndenburgabbild",
+        "material": "stone",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7692281,
+          49.405687
+        ]
+      },
+      "id": "node/7419126089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7884887590",
+        "drinking_water": "no",
+        "historic": "yes",
+        "man_made": "water_well",
+        "pump": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7014829,
+          49.4147253
+        ]
+      },
+      "id": "node/7884887590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8182509326",
+        "direction": "90",
+        "historic": "memorial",
+        "material": "stone",
+        "name": "Feuchtgebiet \"Neue Letzbach\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7697399,
+          49.4006035
+        ]
+      },
+      "id": "node/8182509326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8730428689",
+        "historic": "memorial",
+        "name": "Gedenkstätte Strandbad Vogelwoog"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7236636,
+          49.4476925
+        ]
+      },
+      "id": "node/8730428689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9009805171",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "6",
+        "addr:postcode": "67655",
+        "addr:street": "Klosterstraße",
+        "amenity": "community_centre",
+        "check_date": "2023-10-26",
+        "name": "BDKJ Region Nordpfalz",
+        "opening_hours": "Mo 08:30-16:00, Tu-We 08:30-14:30, Th 08:30-15:30, Fr 08:30-14:00",
+        "operator": "Katholische Jugendzentrale Kaiserslautern",
+        "operator:type": "community",
+        "website": "https://www.bdkj-nordpfalz.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773059,
+          49.4460012
+        ]
+      },
+      "id": "node/9009805171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9161836687",
+        "historic": "memorial",
+        "inscription": "Der Alte Letzbach (Lützelbach) trennt den Kleinen Letzelbach om Osten von dem Großen Letzelbach im Westen. Anno 1222 ...",
+        "memorial": "stone",
+        "note": "Inschrift auf der Metallplatte identisch mit der auf dem unweit nördlichen Stein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7617399,
+          49.401825
+        ]
+      },
+      "id": "node/9161836687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9161836688",
+        "historic": "memorial",
+        "inscription": "Wüstletzbach. Der Alte Letzbach (Lützelbach) trennt den Kleinen Letzelbach om Osten von dem Großen Letzelbach im Westen. Anno 1222 ...",
+        "memorial": "stone",
+        "note": "Inschrift auf der Metallplatte identisch mit der auf dem unweit südlichen Stein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7618865,
+          49.4040895
+        ]
+      },
+      "id": "node/9161836688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9197923732",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7485169,
+          49.4172731
+        ]
+      },
+      "id": "node/9197923732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9197923733",
+        "historic": "memorial",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7484975,
+          49.4171972
+        ]
+      },
+      "id": "node/9197923733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9197923734",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7566058,
+          49.3960947
+        ]
+      },
+      "id": "node/9197923734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9197923740",
+        "historic": "memorial",
+        "memorial": "stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7471463,
+          49.4115063
+        ]
+      },
+      "id": "node/9197923740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10795269858",
+        "amenity": "community_centre",
+        "community_centre": "events_venue",
+        "name": "Stiftskeller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7736908,
+          49.4447227
+        ]
+      },
+      "id": "node/10795269858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10866775991",
+        "historic": "memorial",
+        "inscription": "Zum Gedenken an das 700jährige Jubiläum der Waldschenkung von König Albrecht an die Stadt Kaiserslautern 1303 - 2003",
+        "material": "stone",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7880855,
+          49.434441
+        ]
+      },
+      "id": "node/10866775991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11260406661",
+        "historic": "memorial",
+        "inscription": "1816: Napoleon Bonaparte, Kaiser der Franzosen, leitete am 04. Oktober 1804 auf dem Plateau über dem Lautertal (Ritschhof) mit dem historischen Satz „UNMÖGLICHES IST KEIN FRANZÖSISCHES WORT\" das Flößen von Stämmen aus dem Reichswald zu Kaiserslautern ein.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7363545,
+          49.4667461
+        ]
+      },
+      "id": "node/11260406661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11260406662",
+        "historic": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7395155,
+          49.471367
+        ]
+      },
+      "id": "node/11260406662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11266026127",
+        "historic": "memorial",
+        "inscription": "Den Toten zur Ehr, den lebenden zur Mahnung: Pluis jamais la guerre - Nie wieder Krieg! 1793 - 1993",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7572138,
+          49.4652982
+        ]
+      },
+      "id": "node/11266026127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11603239338",
+        "historic": "memorial",
+        "inscription": "Naturdenkmal - Der Kolben- oder August-Mayer Brunnen gefasste Quelle ausgewiesen als ND 122 seit 16.12.1978",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6815603,
+          49.4058506
+        ]
+      },
+      "id": "node/11603239338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11764422172",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "52",
+        "addr:postcode": "67655",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "community_centre",
+        "community_centre": "family_centre",
+        "community_centre:for": "family",
+        "name": "Elternladen Ella",
+        "operator": "SOS Kinderdorf Kaiserslautern",
+        "website": "https://www.sos-kinderdorf.de/kinderdorf-kaiserslautern/angebote/fruehe-hilfen-im-familienhilfezentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7625523,
+          49.4406575
+        ]
+      },
+      "id": "node/11764422172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11799290940",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "49",
+        "addr:postcode": "67661",
+        "addr:street": "Kaiserstraße",
+        "amenity": "community_centre",
+        "community_centre": "village_hall",
+        "name": "Bürgerhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6692039,
+          49.4300177
+        ]
+      },
+      "id": "node/11799290940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12063885640",
+        "museum": "history",
+        "name": "Bachbahn Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7116148,
+          49.479577
+        ]
+      },
+      "id": "node/12063885640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12543448897",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.796536,
+          49.3785676
+        ]
+      },
+      "id": "node/12543448897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12710287848",
+        "description": "Namensschild mit Richtungspfeil zum Letzbachbrunnen",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Letzbachbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.770091,
+          49.4037448
+        ]
+      },
+      "id": "node/12710287848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12712358699",
+        "description": "Zur Zeit Napoleaons um 1805 gepflanzt ...",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Katharina Eiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7596094,
+          49.4176453
+        ]
+      },
+      "id": "node/12712358699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12712425002",
+        "description": "Hier stand 400 Jahre lang die sogenannte Dicke Eiche ...",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Dicke Eiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7607096,
+          49.4181387
+        ]
+      },
+      "id": "node/12712425002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13048410999",
+        "historic": "memorial",
+        "inscription": "Wer meckern will, ob gross, ob klein\nder tus an diesem Meckerstein",
+        "material": "sandstone",
+        "name": "Meckerstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7836625,
+          49.4289203
+        ]
+      },
+      "id": "node/13048410999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13458556158",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8378695,
+          49.3984847
+        ]
+      },
+      "id": "node/13458556158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13811664246",
+        "historic": "boundary_stone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8374913,
+          49.3692316
+        ]
+      },
+      "id": "node/13811664246"
+    }
+  ]
+}
