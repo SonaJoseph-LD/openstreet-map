@@ -11,6 +11,42 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
 
+  const formatInstruction = (maneuver) => {
+    if (maneuver.instruction) return maneuver.instruction;
+    
+    const type = maneuver.type || '';
+    const modifier = maneuver.modifier || '';
+    
+    switch (type) {
+      case 'turn':
+        return `Turn ${modifier.replace('_', ' ')}`;
+      case 'new name':
+        return `Continue onto ${maneuver.name || 'new road'}`;
+      case 'depart':
+        return 'Head towards your destination';
+      case 'arrive':
+        return 'You have arrived at your destination';
+      case 'merge':
+        return `Merge ${modifier.replace('_', ' ')}`;
+      case 'ramp':
+        return 'Take the ramp';
+      case 'on ramp':
+        return 'Take the on-ramp';
+      case 'off ramp':
+        return 'Take the off-ramp';
+      case 'fork':
+        return `Take the fork ${modifier.replace('_', ' ')}`;
+      case 'end of road':
+        return `At the end of the road, turn ${modifier.replace('_', ' ')}`;
+      case 'continue':
+        return 'Continue straight';
+      case 'roundabout':
+        return 'Enter the roundabout';
+      default:
+        return type.charAt(0).toUpperCase() + type.slice(1);
+    }
+  };
+
   const fetchDirections = async (start, end, waypoints = []) => {
     setIsLoading(true);
     setError(null);
@@ -50,7 +86,7 @@ function App() {
           geometry: route.geometry,
           trips: route.legs.map(leg => ({
             details: leg.steps.map(step => ({
-              title: step.maneuver.instruction,
+              title: formatInstruction(step.maneuver),
               formatted_distance: step.distance > 1000 
                 ? (step.distance / 1000).toFixed(1) + ' km' 
                 : Math.round(step.distance) + ' m',
@@ -119,6 +155,7 @@ function App() {
         onFetchDirections={fetchDirections}
         onClearDirections={clearDirections}
         onGenerateCategoryRoute={generateCategoryRoute}
+        directions={directions}
         isLoading={isLoading}
         error={error}
       />

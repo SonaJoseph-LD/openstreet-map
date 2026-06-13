@@ -8,6 +8,7 @@ function Sidebar({
   onFetchDirections, 
   onClearDirections,
   onGenerateCategoryRoute,
+  directions,
   isLoading,
   error 
 }) {
@@ -42,7 +43,6 @@ function Sidebar({
   return (
     <aside className="sidebar">
       <h1>Kaiserslautern Historical Map</h1>
-      
       <div className="filter-section">
         <label htmlFor="category-filter">Filter by Category:</label>
         <select 
@@ -109,15 +109,32 @@ function Sidebar({
         </button>
 
         {error && <div className="error-message">{error}</div>}
+
+        {directions && directions[0] && (
+          <div className="route-details">
+            <div className="route-summary">
+              <span>{directions[0].formatted_distance}</span>
+              <span>{directions[0].formatted_duration}</span>
+            </div>
+            <div className="route-steps">
+              {directions[0].trips.map((trip, tIdx) => (
+                <div key={tIdx}>
+                  {trip.details.map((step, sIdx) => (
+                    <div key={`${tIdx}-${sIdx}`} className="step-item">
+                      <div className="step-text">
+                        <div dangerouslySetInnerHTML={{ __html: step.title }} />
+                        <span className="step-distance">{step.formatted_distance}</span>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
 
-      <div className="description">
-        <p>
-          This project visualizes the industrial and cultural history of Kaiserslautern. 
-          Explore various sites including historical factories, workers' settlements, 
-          and significant cultural landmarks.
-        </p>
-      </div>
+
     </aside>
   );
 }
