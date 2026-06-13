@@ -57,6 +57,160 @@
   background-color: #e0e0e0;
 }
 
+.generate-trail-btn {
+  padding: 8px;
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 5px;
+  transition: background 0.2s;
+}
+
+.generate-trail-btn:hover {
+  background-color: #27ae60;
+}
+
+.directions-section {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.directions-section h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.searchable-select-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.searchable-select-container label {
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.searchable-select-display {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  width: 100%;
+  background: white;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  box-sizing: border-box;
+}
+
+.searchable-select-display.active {
+  border-color: #3498db;
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+.searchable-select-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 5px;
+  z-index: 2000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: flex;
+  flex-direction: column;
+  max-height: 250px;
+}
+
+.search-input {
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #eee;
+  outline: none;
+  font-size: 13px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.options-list {
+  overflow-y: auto;
+  flex-grow: 1;
+}
+
+.option-item {
+  padding: 10px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.option-item:hover {
+  background-color: #f1f1f1;
+}
+
+.option-item.selected {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  font-weight: 600;
+}
+
+.no-options {
+  padding: 10px;
+  font-size: 12px;
+  color: #999;
+  text-align: center;
+}
+
+.get-directions-btn {
+  padding: 10px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+
+.get-directions-btn:hover:not(:disabled) {
+  background-color: #2980b9;
+}
+
+.get-directions-btn:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.clear-directions-btn {
+  padding: 6px;
+  background-color: transparent;
+  color: #e74c3c;
+  border: 1px solid #e74c3c;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 11px;
+}
+
+.error-message {
+  color: #e74c3c;
+  font-size: 0.8rem;
+  margin-top: 5px;
+}
+
 .sidebar .description p {
   margin-bottom: 1rem;
   line-height: 1.6;

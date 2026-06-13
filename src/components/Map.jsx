@@ -3,6 +3,7 @@ import L from 'leaflet';
 import GeoJsonLayer from './Layers/GeoJsonLayer';
 import PolygonLayer from './Layers/PolygonLayer';
 import SettlementsLayer from './Layers/SettlementsLayer';
+import RouteLayer from './Layers/RouteLayer';
 import { processPois } from '../utils/poiUtils';
 
 // Data imports
@@ -20,7 +21,7 @@ let DefaultIcon = L.icon({
 });
 L.Marker.prototype.options.icon = DefaultIcon;
 
-function Map({ selectedCategory }) {
+function Map({ selectedCategory, directions }) {
   const center = [49.444, 7.768]; // Kaiserslautern center
   
   // Process and filter data
@@ -65,6 +66,8 @@ function Map({ selectedCategory }) {
           <SettlementsLayer />
         </LayersControl.Overlay>
       </LayersControl>
+
+      {directions && <RouteLayer data={directions} />}
     </MapContainer>
   );
 }

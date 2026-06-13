@@ -1,4 +1,19 @@
-function Sidebar({ selectedCategory, onCategoryChange }) {
+import { useMemo, useState } from 'react';
+import poisData from '../data/pois.json';
+import SearchableSelect from './SearchableSelect';
+
+function Sidebar({ 
+  selectedCategory, 
+  onCategoryChange, 
+  onFetchDirections, 
+  onClearDirections,
+  onGenerateCategoryRoute,
+  isLoading,
+  error 
+}) {
+  const [startId, setStartId] = useState('');
+  const [endId, setEndId] = useState('');
+
   const categories = [
     'All',
     'Historic Sites',
@@ -8,6 +23,21 @@ function Sidebar({ selectedCategory, onCategoryChange }) {
     'Industrial / Man-Made',
     'Other'
   ];
+
+  // Extract POIs with names for the directions dropdowns
+  const namedPois = useMemo(() => {
+    return poisData.features
+      .filter(f => f.properties.name)
+      .sort((a, b) => a.properties.name.localeCompare(b.properties.name));
+  }, []);
+
+  const handleGetDirections = () => {
+    const start = namedPois.find(f => f.id === startId);
+    const end = namedPois.find(f => f.id === endId);
+    if (start && end) {
+      onFetchDirections(start, end);
+    }
+  };
 
   return (
     <aside className="sidebar">
@@ -33,6 +63,52 @@ function Sidebar({ selectedCategory, onCategoryChange }) {
             Remove Filter
           </button>
         )}
+        {selectedCategory !== 'All' && (
+          <button 
+            className="generate-trail-btn"
+            onClick={() => onGenerateCategoryRoute(selectedCategory)}
+            disabled={isLoading}
+          >
+            Route Through All {selectedCategory}
+          </button>
+        )}
+      </div>
+
+      <div className="directions-section">
+        <h3>Get Directions</h3>
+        
+        <SearchableSelect 
+          label="From:"
+          options={namedPois}
+          value={startId}
+          onChange={setStartId}
+          placeholder="Select start point..."
+        />
+
+        <SearchableSelect 
+          label="To:"
+          options={namedPois}
+          value={endId}
+          onChange={setEndId}
+          placeholder="Select destination..."
+        />
+
+        <button 
+          onClick={handleGetDirections}
+          disabled={!startId || !endId || isLoading}
+          className="get-directions-btn"
+        >
+          {isLoading ? 'Fetching Route...' : 'Get Directions'}
+        </button>
+
+        <button 
+          onClick={onClearDirections}
+          className="clear-directions-btn"
+        >
+          Clear Route
+        </button>
+
+        {error && <div className="error-message">{error}</div>}
       </div>
 
       <div className="description">
@@ -40,10 +116,6 @@ function Sidebar({ selectedCategory, onCategoryChange }) {
           This project visualizes the industrial and cultural history of Kaiserslautern. 
           Explore various sites including historical factories, workers' settlements, 
           and significant cultural landmarks.
-        </p>
-        <p>
-          Use the layer control on the map to toggle different data layers and 
-          historical overlays.
         </p>
       </div>
     </aside>
